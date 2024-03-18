@@ -48,5 +48,12 @@ At $T=0$, all methods result in $\omega_1({\bf q})=(2S-1)D$. The Anderson-Callen
 \langle S_z^2 \rangle = 2 - \sigma(1 + 2\phi) \text{ [for $S$=1]}.
 ```
 ## Example
-The example below shows the $T$ dependent magnetization calculated for a square lattice with $S=1$, $J=10 meV$, and $D=0.1J$ using the methods outlined above. 
+The example below shows $T$-dependent magnetization calculated for a square lattice with $S=1$, $J=10$ meV, and $D=0.1J$ using the three methods outlined above. 
+
 ![figure](figures/figure.png)
+
+### References
+* "Quantum Theory of Magnetism" by W. Nolting and A. Ramakanth (Springer-Verlag, Berlin, Heidelberg 2009
+* P. Fröbrich and P.J. Kuntz, "Many-body Green's function theory of Heisenberg films", Phys. Rep. 432, 223 (2006)
+* V. Yu. Irkhin, A.A. Katanin, and M.I. Katsnelson, "Self-consistent spin-wave theory of layered Heisenberg magnets", Phys. Rev. B 60, 1082 (1999)
+* U. Balucani, V. Tognetti and M.G Pini, "Kinematic consistency in anisotropic ferromagnets", J. Phys. C: Solid State Phys. 12, 5513 (1979).
